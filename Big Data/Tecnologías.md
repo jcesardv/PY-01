@@ -1,0 +1,16 @@
+- Apache Hadoop: Framework para almacenar (HDFS) y procesar (MapReduce) grandes volúmenes de datos en lotes.
+- Apache Spark: Motor rápido de procesamiento en memoria para lotes y streaming.
+- Apache Kafka: Plataforma de streaming para transmitir datos en tiempo real.
+- Apache Flink: Procesamiento en tiempo real basado en eventos con baja latencia.
+- Apache Hive: Consultas SQL sobre datos en HDFS para análisis.
+- Apache Airflow: Orquesta flujos de trabajo (ETL) con DAGs.
+- Amazon S3: Almacenamiento escalable de objetos no estructurados.
+- Amazon EMR: Servicio gestionado para ejecutar Spark/Hadoop.
+- AWS Lambda: Computación serverless para eventos cortos.
+- AWS Glue: Servicio ETL gestionado basado en Spark.
+- Docker: Contenedores para empaquetar aplicaciones.
+- Kubernetes: Orquestación de contenedores en clústeres.
+- Bases NoSQL (MongoDB, Cassandra): Almacenes no relacionales para datos flexibles.
+- Java: Lenguaje robusto usado en Big Data y Cloud.
+- HDFS: Sistema de archivos distribuido de Hadoop.
+- MapReduce: Modelo de programación para procesar datos en paralelo.
