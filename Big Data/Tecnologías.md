@@ -13,4 +13,4 @@
 - Bases NoSQL (MongoDB, Cassandra): Almacenes no relacionales para datos flexibles.
 - Java: Lenguaje robusto usado en Big Data y Cloud.
 - HDFS: Sistema de archivos distribuido de Hadoop.
-- MapReduce: Modelo de programación para procesar datos en paralelo.
+- MapReduce: Modelo de programación para procesar datos en paralelo. 
