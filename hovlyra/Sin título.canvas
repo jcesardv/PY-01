@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"219bb26680bd7307","x":-400,"y":-280,"width":300,"height":360,"type":"text","text":""},
+		{"id":"05d4175e0d1bd850","x":-375,"y":-260,"width":250,"height":60,"type":"text","text":"Apache Quartz"},
+		{"id":"186fcda49034bdbb","x":-375,"y":-180,"width":250,"height":60,"type":"text","text":"Apache HTTP"},
+		{"id":"148fa9725dc55235","x":-375,"y":-100,"width":250,"height":60,"type":"text","text":"Apache SQL"},
+		{"id":"0a760e86c33df176","x":-375,"y":0,"width":250,"height":60,"type":"text","text":"Quarkus, Postgres"}
+	],
+	"edges":[
+		{"id":"15b5614e04b6d06e","fromNode":"05d4175e0d1bd850","fromSide":"bottom","toNode":"186fcda49034bdbb","toSide":"top"}
+	]
+}
